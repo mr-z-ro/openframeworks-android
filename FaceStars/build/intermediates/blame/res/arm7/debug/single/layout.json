@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/intermediates/res/merged/arm7/debug/layout/main_layout.xml",
+        "source": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/res/layout/main_layout.xml"
+    },
+    {
+        "merged": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/intermediates/res/merged/arm7/debug/layout/main.xml",
+        "source": "/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/ofAndroidLib/build/intermediates/bundles/default/res/layout/main.xml"
+    }
+]

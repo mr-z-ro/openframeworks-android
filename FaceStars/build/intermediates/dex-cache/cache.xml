@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/ofAndroidLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="17e4b74b68082ef98545dfd239aec49c54eb3c39">
+        <dex dex="/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/intermediates/pre-dexed/arm7/debug/classes_3815a0c6358e9a8089b9f8139ec4d51f521f0d5a.jar" />
+    </item>
+
+</items>

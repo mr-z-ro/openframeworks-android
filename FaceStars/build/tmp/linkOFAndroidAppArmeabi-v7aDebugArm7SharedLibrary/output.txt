@@ -1,0 +1,4 @@
+See file:///Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/tmp/linkOFAndroidAppArmeabi-v7aDebugArm7SharedLibrary/output.txt for all output for linkOFAndroidAppArmeabi-v7aDebugArm7SharedLibrary.
+linking libOFAndroidApp.so successful.
+
+Finished linkOFAndroidAppArmeabi-v7aDebugArm7SharedLibrary, see full log file:///Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/tmp/linkOFAndroidAppArmeabi-v7aDebugArm7SharedLibrary/output.txt.

@@ -1,0 +1,433 @@
+See file:///Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/tmp/compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp/output.txt for all output for compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp.
+compiling ofxAndroidSoundPlayer.cpp successful.
+
+compiling ofxAndroidVideoGrabber.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:72:2: warning: field 'attemptFramerate' will be initialized after field 'bUsePixels' [-Wreorder]
+,attemptFramerate(-1)
+ ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:542:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *py1,*py2;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:542:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *py1,*py2;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:544:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *d1, *d2;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:544:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *d1, *d2;
+         ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:617:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R, G, B;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:617:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R, G, B;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:617:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R, G, B;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:618:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Y1;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:619:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Y2;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:620:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Cr;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:621:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Cb;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:666:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *py1,*py2;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:666:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *py1,*py2;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:668:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *d1, *d2;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:668:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *d1, *d2;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:669:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R,G,B;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:669:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R,G,B;
+        ^~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:669:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R,G,B;
+        ^~~~~~~~~
+39 warnings generated.
+
+compiling ofxAndroidUtils.cpp successful.
+
+compiling main.cpp successful.
+
+compiling ofApp.cpp successful.
+
+compiling ofxAndroidSoundStream.cpp successful.
+
+compiling ofxAndroidVibrator.cpp successful.
+
+compiling ofxAndroidAccelerometer.cpp successful.
+
+compiling ofxAndroidLogChannel.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidLogChannel.cpp:40:49: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+        __android_log_print(androidPrio,module.c_str(),msg.c_str());
+                                                       ^~~~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidLogChannel.cpp:40:49: note: treat the string as an argument to avoid this
+        __android_log_print(androidPrio,module.c_str(),msg.c_str());
+                                                       ^
+                                                       "%s", 
+1 warning generated.
+
+compiling ofAppAndroidWindow.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofAppAndroidWindow.cpp:263:60: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+        __android_log_print(ANDROID_LOG_INFO,"ofAppAndroidWindow",("setting app dir name to: \"" + string(mfile) + "\"").c_str());
+                                                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofAppAndroidWindow.cpp:263:60: note: treat the string as an argument to avoid this
+        __android_log_print(ANDROID_LOG_INFO,"ofAppAndroidWindow",("setting app dir name to: \"" + string(mfile) + "\"").c_str());
+                                                                  ^
+                                                                  "%s", 
+1 warning generated.
+
+compiling ofxAccelerometer.cpp successful.
+
+compiling ofxAndroidVideoPlayer.cpp successful.
+
+compiling Helpers.cpp successful.
+
+compiling Wrappers.cpp successful.
+
+compiling RunningBackground.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/RunningBackground.cpp:8:3: warning: field 'useLearningTime' will be initialized after field 'thresholdValue' [-Wreorder]
+        ,useLearningTime(false)
+         ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/RunningBackground.cpp:10:3: warning: field 'ignoreForeground' will be initialized after field 'needToReset' [-Wreorder]
+        ,ignoreForeground(false)
+         ^
+2 warnings generated.
+
+compiling Tracker.cpp successful.
+
+compiling Calibration.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:105:5: warning: field 'reprojectionError' will be initialized after field 'distCoeffs' [-Wreorder]
+    reprojectionError(0),
+    ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:226:19: warning: unused variable 'principalPointXGt' [-Wunused-variable]
+            float principalPointXGt = bestMatchGtXml.getChild("stCamera:PerspectiveModel").getChild("stCamera:ImageXCenter").getFloatValue() ;
+                  ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:227:19: warning: unused variable 'principalPointYGt' [-Wunused-variable]
+            float principalPointYGt = bestMatchGtXml.getChild("stCamera:PerspectiveModel").getChild("stCamera:ImageYCenter").getFloatValue();
+                  ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:203:15: warning: unused variable 'principalPointX' [-Wunused-variable]
+        float principalPointX = 0.5; // ImageXCenter, ratio
+              ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:204:15: warning: unused variable 'principalPointY' [-Wunused-variable]
+        float principalPointY = 0.5; // ImageYCenter, ratio
+              ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:216:15: warning: unused variable 'principalPointYLt' [-Wunused-variable]
+        float principalPointYLt = bestMatchLtXml.getChild("stCamera:PerspectiveModel").getChild("stCamera:ImageYCenter").getFloatValue();
+              ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/Calibration.cpp:215:15: warning: unused variable 'principalPointXLt' [-Wunused-variable]
+        float principalPointXLt = bestMatchLtXml.getChild("stCamera:PerspectiveModel").getChild("stCamera:ImageXCenter").getFloatValue();
+              ^
+7 warnings generated.
+
+compiling Flow.cpp successful.
+
+compiling ContourFinder.cpp successful.
+
+compiling Distance.cpp successful.
+
+compiling ObjectFinder.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/ofxCv/src/ObjectFinder.cpp:13:3: warning: field 'maxSizeScale' will be initialized after field 'useHistogramEqualization' [-Wreorder]
+        ,maxSizeScale(1)
+         ^
+1 warning generated.
+
+compiling Utilities.cpp successful.
+
+compiling Kalman.cpp successful.
+
+compiling ETF.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/CLD/src/ETF.cpp:205:6: warning: unused variable 'MAX_GRADIENT' [-Wunused-variable]
+        int MAX_GRADIENT = -1;
+            ^
+1 warning generated.
+
+compiling fdog.cpp successful.
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/CLD/src/fdog.cpp:129:6: warning: unused variable 'flow_DOG_sign' [-Wunused-variable]
+        int flow_DOG_sign = 0; 
+            ^
+/Users/mg/Documents/openFrameworks_Android/addons/ofxCv/libs/CLD/src/fdog.cpp:249:6: warning: unused variable 'MAX_GRADIENT' [-Wunused-variable]
+        int MAX_GRADIENT = -1;
+            ^
+2 warnings generated.
+
+compiling ofxCvColorImage.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvColorImage.cpp:1:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h:12:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvColorImage.cpp:3:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvFloatImage.h:65:19: warning: 'ofxCvFloatImage::setRoiFromPixels' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void  setRoiFromPixels( float * _pixels, int w, int h );  //no scaling
+                  ^
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:67:19: note: hidden overloaded virtual function 'ofxCvImage::setRoiFromPixels' declared here: different number of parameters (1 vs 3)
+    virtual void  setRoiFromPixels( const ofPixels & pixels );
+                  ^
+2 warnings generated.
+
+compiling ofxCvShortImage.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvShortImage.cpp:2:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h:12:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvShortImage.cpp:4:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvFloatImage.h:65:19: warning: 'ofxCvFloatImage::setRoiFromPixels' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void  setRoiFromPixels( float * _pixels, int w, int h );  //no scaling
+                  ^
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:67:19: note: hidden overloaded virtual function 'ofxCvImage::setRoiFromPixels' declared here: different number of parameters (1 vs 3)
+    virtual void  setRoiFromPixels( const ofPixels & pixels );
+                  ^
+2 warnings generated.
+
+compiling ofxCvContourFinder.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvContourFinder.cpp:2:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:15:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h:12:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvContourFinder.cpp:2:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:40:19: warning: 'ofxCvContourFinder::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+    virtual void  draw() const { draw(0,0, _width, _height); };
+                  ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (1 vs 0)
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 0)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvContourFinder.cpp:2:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:43:16: warning: 'ofxCvContourFinder::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void  draw(const ofPoint & point) const;
+                      ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvContourFinder.cpp:2:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:46:18: warning: 'ofxCvContourFinder::setAnchorPoint' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void setAnchorPoint(int x, int y);
+                 ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:208:15: note: hidden overloaded virtual function 'ofBaseDraws::setAnchorPoint' declared here: type mismatch at 1st parameter ('float' vs 'int')
+        virtual void setAnchorPoint(float x, float y){};
+                     ^
+4 warnings generated.
+
+compiling ofxCvHaarFinder.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp:1:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.h:15:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxOpenCv.h:9:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp:1:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.h:15:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxOpenCv.h:12:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvFloatImage.h:65:19: warning: 'ofxCvFloatImage::setRoiFromPixels' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void  setRoiFromPixels( float * _pixels, int w, int h );  //no scaling
+                  ^
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:67:19: note: hidden overloaded virtual function 'ofxCvImage::setRoiFromPixels' declared here: different number of parameters (1 vs 3)
+    virtual void  setRoiFromPixels( const ofPixels & pixels );
+                  ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp:1:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.h:15:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxOpenCv.h:17:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:40:19: warning: 'ofxCvContourFinder::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+    virtual void  draw() const { draw(0,0, _width, _height); };
+                  ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (1 vs 0)
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 0)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp:1:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.h:15:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxOpenCv.h:17:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:43:16: warning: 'ofxCvContourFinder::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void  draw(const ofPoint & point) const;
+                      ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp:1:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.h:15:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxOpenCv.h:17:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvContourFinder.h:46:18: warning: 'ofxCvContourFinder::setAnchorPoint' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void setAnchorPoint(int x, int y);
+                 ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:208:15: note: hidden overloaded virtual function 'ofBaseDraws::setAnchorPoint' declared here: type mismatch at 1st parameter ('float' vs 'int')
+        virtual void setAnchorPoint(float x, float y){};
+                     ^
+5 warnings generated.
+
+compiling ofxCvImage.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvImage.cpp:2:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvImage.cpp:5:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvFloatImage.h:65:19: warning: 'ofxCvFloatImage::setRoiFromPixels' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void  setRoiFromPixels( float * _pixels, int w, int h );  //no scaling
+                  ^
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:67:19: note: hidden overloaded virtual function 'ofxCvImage::setRoiFromPixels' declared here: different number of parameters (1 vs 3)
+    virtual void  setRoiFromPixels( const ofPixels & pixels );
+                  ^
+2 warnings generated.
+
+compiling ofxCvFloatImage.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvFloatImage.cpp:2:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h:12:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvFloatImage.cpp:4:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvFloatImage.h:65:19: warning: 'ofxCvFloatImage::setRoiFromPixels' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void  setRoiFromPixels( float * _pixels, int w, int h );  //no scaling
+                  ^
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:67:19: note: hidden overloaded virtual function 'ofxCvImage::setRoiFromPixels' declared here: different number of parameters (1 vs 3)
+    virtual void  setRoiFromPixels( const ofPixels & pixels );
+                  ^
+2 warnings generated.
+
+compiling ofxCvGrayscaleImage.cpp successful.
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp:2:
+In file included from /Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h:12:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:97:15: warning: 'ofxCvImage::draw' hides overloaded virtual functions [-Woverloaded-virtual]
+        virtual void draw(const ofPoint & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:170:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: type mismatch at 1st parameter ('const glm::vec2 &' (aka 'const tvec2<float, highp> &') vs 'const ofPoint &' (aka 'const ofVec3f &'))
+        virtual void draw(const glm::vec2 & point) const;
+                     ^
+/Users/mg/Documents/openFrameworks_Android/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:182:15: note: hidden overloaded virtual function 'ofBaseDraws::draw' declared here: different number of parameters (3 vs 1)
+        virtual void draw(const glm::vec2 & point, float w, float h) const;
+                     ^
+In file included from /Users/mg/Documents/openFrameworks_Android/addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp:4:
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvFloatImage.h:65:19: warning: 'ofxCvFloatImage::setRoiFromPixels' hides overloaded virtual function [-Woverloaded-virtual]
+    virtual void  setRoiFromPixels( float * _pixels, int w, int h );  //no scaling
+                  ^
+/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/../../../addons/ofxOpenCv/src/ofxCvImage.h:67:19: note: hidden overloaded virtual function 'ofxCvImage::setRoiFromPixels' declared here: different number of parameters (1 vs 3)
+    virtual void  setRoiFromPixels( const ofPixels & pixels );
+                  ^
+2 warnings generated.
+
+Finished compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp, see full log file:///Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/tmp/compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp/output.txt.

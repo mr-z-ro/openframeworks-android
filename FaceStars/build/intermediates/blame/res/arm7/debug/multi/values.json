@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/build/intermediates/incremental/mergeArm7DebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 46,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/Users/mg/Documents/openFrameworks_Android/addons/ofxAndroid/ofAndroidLib/build/intermediates/bundles/default/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 46,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 50,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/mg/Documents/openFrameworks_Android/apps/myApps/FaceStars/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    }
+]
