@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/incremental/mergeArm64DebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

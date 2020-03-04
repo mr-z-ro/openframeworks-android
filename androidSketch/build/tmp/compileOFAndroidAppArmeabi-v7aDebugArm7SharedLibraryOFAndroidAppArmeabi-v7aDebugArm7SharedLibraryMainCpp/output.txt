@@ -1,0 +1,162 @@
+See file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/tmp/compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp/output.txt for all output for compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp.
+compiling ofxAndroidSoundPlayer.cpp successful.
+
+compiling ofxAndroidVideoGrabber.cpp successful.
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:72:2: warning: field 'attemptFramerate' will be initialized after field 'bUsePixels' [-Wreorder]
+,attemptFramerate(-1)
+ ^
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:541:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int y1,y2,u,v;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:542:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *py1,*py2;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:542:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *py1,*py2;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:543:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register int i,j, c1, c2, c3, c4;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:544:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *d1, *d2;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:544:3: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+         register unsigned char *d1, *d2;
+         ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:617:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R, G, B;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:617:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R, G, B;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:617:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R, G, B;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:618:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Y1;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:619:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Y2;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:620:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Cr;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:621:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int Cb;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:665:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int y1,y2,u,v;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:666:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *py1,*py2;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:666:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *py1,*py2;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:667:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int i,j, c1, c2, c3, c4;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:668:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *d1, *d2;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:668:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned char *d1, *d2;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:669:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R,G,B;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:669:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R,G,B;
+        ^~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidVideoGrabber.cpp:669:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int R,G,B;
+        ^~~~~~~~~
+39 warnings generated.
+
+compiling ofxAndroidUtils.cpp successful.
+
+compiling main.cpp successful.
+
+compiling ofApp.cpp successful.
+
+compiling ofxAndroidSoundStream.cpp successful.
+
+compiling ofxAndroidVibrator.cpp successful.
+
+compiling ofxAndroidAccelerometer.cpp successful.
+
+compiling ofxAndroidLogChannel.cpp successful.
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidLogChannel.cpp:40:49: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+        __android_log_print(androidPrio,module.c_str(),msg.c_str());
+                                                       ^~~~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofxAndroidLogChannel.cpp:40:49: note: treat the string as an argument to avoid this
+        __android_log_print(androidPrio,module.c_str(),msg.c_str());
+                                                       ^
+                                                       "%s", 
+1 warning generated.
+
+compiling ofAppAndroidWindow.cpp successful.
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofAppAndroidWindow.cpp:268:60: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+        __android_log_print(ANDROID_LOG_INFO,"ofAppAndroidWindow",("setting app dir name to: \"" + string(mfile) + "\"").c_str());
+                                                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/src/ofAppAndroidWindow.cpp:268:60: note: treat the string as an argument to avoid this
+        __android_log_print(ANDROID_LOG_INFO,"ofAppAndroidWindow",("setting app dir name to: \"" + string(mfile) + "\"").c_str());
+                                                                  ^
+                                                                  "%s", 
+1 warning generated.
+
+compiling ofxAccelerometer.cpp successful.
+
+compiling ofxAndroidVideoPlayer.cpp successful.
+
+compiling ofxARCore.cpp successful.
+
+Finished compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp, see full log file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/tmp/compileOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryOFAndroidAppArmeabi-v7aDebugArm7SharedLibraryMainCpp/output.txt.

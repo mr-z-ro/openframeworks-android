@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/arm64/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/arm64/debug/layout-v21/notification_action.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/arm64/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/arm64/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

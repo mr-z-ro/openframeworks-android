@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/design_fab_in.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/541bef57624db7c0f986ae01d0fbffb848e75930/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/design_fab_out.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/541bef57624db7c0f986ae01d0fbffb848e75930/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/541bef57624db7c0f986ae01d0fbffb848e75930/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/541bef57624db7c0f986ae01d0fbffb848e75930/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/541bef57624db7c0f986ae01d0fbffb848e75930/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/541bef57624db7c0f986ae01d0fbffb848e75930/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/res/merged/x86/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/anim/abc_popup_exit.xml"
+    }
+]

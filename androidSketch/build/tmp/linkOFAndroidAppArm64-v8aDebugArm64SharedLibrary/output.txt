@@ -1,0 +1,4 @@
+See file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/tmp/linkOFAndroidAppArm64-v8aDebugArm64SharedLibrary/output.txt for all output for linkOFAndroidAppArm64-v8aDebugArm64SharedLibrary.
+linking libOFAndroidApp.so successful.
+
+Finished linkOFAndroidAppArm64-v8aDebugArm64SharedLibrary, see full log file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/tmp/linkOFAndroidAppArm64-v8aDebugArm64SharedLibrary/output.txt.

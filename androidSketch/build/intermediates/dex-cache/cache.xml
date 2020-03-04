@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/ofAndroidLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00aad8c966b6a632f76f28e1492bb782e81fa35f">
+        <dex dex="/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/pre-dexed/arm64/debug/classes_86a80a913218b514fcc038ee44daa58954917732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxARCore2/ofxARCoreLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9667fb9a3d7668bf3c786bb83d3ae0d7ebc9eab">
+        <dex dex="/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/intermediates/pre-dexed/arm64/debug/classes_1485fd39fda3c6098d0405cca0a0b2a4c0f485f3.jar" />
+    </item>
+
+</items>
