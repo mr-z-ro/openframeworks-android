@@ -1,0 +1,4 @@
+See file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/tmp/compileOFAndroidAppArm64-v8aDebugArm64SharedLibraryOFAndroidAppArm64-v8aDebugArm64SharedLibraryMainCpp/output.txt for all output for compileOFAndroidAppArm64-v8aDebugArm64SharedLibraryOFAndroidAppArm64-v8aDebugArm64SharedLibraryMainCpp.
+compiling ofApp.cpp successful.
+
+Finished compileOFAndroidAppArm64-v8aDebugArm64SharedLibraryOFAndroidAppArm64-v8aDebugArm64SharedLibraryMainCpp, see full log file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/tmp/compileOFAndroidAppArm64-v8aDebugArm64SharedLibraryOFAndroidAppArm64-v8aDebugArm64SharedLibraryMainCpp/output.txt.

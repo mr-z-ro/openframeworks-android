@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ar.iml" filepath="$PROJECT_DIR$/ar.iml" group="ar" />
+      <module fileurl="file://$PROJECT_DIR$/../../../addons/ofxARCore2/ofxARCoreLib/arcore_client/arcore_client.iml" filepath="$PROJECT_DIR$/../../../addons/ofxARCore2/ofxARCoreLib/arcore_client/arcore_client.iml" group="ar/arcore_client" />
+      <module fileurl="file://$PROJECT_DIR$/../../../addons/ofxAndroid/ofAndroidLib/ofAndroidLib.iml" filepath="$PROJECT_DIR$/../../../addons/ofxAndroid/ofAndroidLib/ofAndroidLib.iml" group="ar/ofAndroidLib" />
+      <module fileurl="file://$PROJECT_DIR$/../../../addons/ofxARCore2/ofxARCoreLib/ofxARCore2.iml" filepath="$PROJECT_DIR$/../../../addons/ofxARCore2/ofxARCoreLib/ofxARCore2.iml" group="ar/ofxARCore2" />
+      <module fileurl="file://$PROJECT_DIR$/../../../libs/openFrameworksCompiled/project/android/openFrameworksProject.iml" filepath="$PROJECT_DIR$/../../../libs/openFrameworksCompiled/project/android/openFrameworksProject.iml" group="ar/openFrameworksProject" />
+    </modules>
+  </component>
+</project>

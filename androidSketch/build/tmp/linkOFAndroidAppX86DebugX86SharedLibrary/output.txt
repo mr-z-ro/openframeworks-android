@@ -1,4 +1,0 @@
-See file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/tmp/linkOFAndroidAppX86DebugX86SharedLibrary/output.txt for all output for linkOFAndroidAppX86DebugX86SharedLibrary.
-linking libOFAndroidApp.so successful.
-
-Finished linkOFAndroidAppX86DebugX86SharedLibrary, see full log file:///Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/androidSketch/build/tmp/linkOFAndroidAppX86DebugX86SharedLibrary/output.txt.
