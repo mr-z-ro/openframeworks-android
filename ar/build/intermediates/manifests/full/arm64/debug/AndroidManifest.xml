@@ -7,7 +7,7 @@
 
     <uses-sdk
         android:minSdkVersion="24"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="25" />
 
     <!-- Add custom permissions here, for example -->
     <uses-permission android:name="android.permission.CAMERA" />

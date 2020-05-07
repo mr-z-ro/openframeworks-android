@@ -12,12 +12,12 @@
         "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/drawable-xhdpi-v4/ic_check_white_24dp.png",
-        "source": "/Users/mr_z_ro/.android/build-cache/20a9cc17927fc1891ff105e1cef31b7cf5ca6169/output/res/drawable-xhdpi-v4/ic_check_white_24dp.png"
-    },
-    {
         "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/drawable-xhdpi-v4/ic_check_white_24dp.png",
+        "source": "/Users/mr_z_ro/.android/build-cache/20a9cc17927fc1891ff105e1cef31b7cf5ca6169/output/res/drawable-xhdpi-v4/ic_check_white_24dp.png"
     },
     {
         "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",

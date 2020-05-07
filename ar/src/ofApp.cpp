@@ -5,11 +5,8 @@ void ofApp::setup(){
   ofBackground(0);
   ofSetOrientation(OF_ORIENTATION_DEFAULT, false);
 
-  // Retrieve augmented images from AR Core via ofxARCore2 (modified by mr_z_ro)
-  augmented_images = arcore.getImageMatrices();
-
   initialized = false;
-  augImgMode = false;
+  augImgMode = true;
   arcore.setup(augImgMode);
 }
 
@@ -36,6 +33,9 @@ void ofApp::draw(){
     arcore.draw();
 
     if (augImgMode) {
+      // Retrieve augmented images from AR Core via ofxARCore2 (modified by mr_z_ro)
+      vector<ofAugmentedImage*> augmented_images = arcore.getImageMatrices();
+
       // draw a box above each detected image
       for (int i = 0; i < augmented_images.size(); i++) {
 
@@ -54,9 +54,8 @@ void ofApp::draw(){
           box.setPosition(0,0,0);
 
           // draw box above the image
-          ofSetColor(255);
+          ofSetColor(ofColor::white);
           box.draw();
-
 
           ofPopMatrix();
         }
@@ -113,10 +112,7 @@ void ofApp::touchUp(int x, int y, int id){
 
 //--------------------------------------------------------------
 void ofApp::touchDoubleTap(int x, int y, int id){
-  __android_log_print(ANDROID_LOG_VERBOSE, APPNAME, "Switched YOOOO");
-  augImgMode = !augImgMode;
-  arcore.setup(augImgMode);
-  initialized = false;
+
 }
 
 //--------------------------------------------------------------

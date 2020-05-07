@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mr_z_ro/.android/build-cache/05eaf70d895ae362fec65d1e32fac799c79c7bc0/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/res/merged/arm64/debug/layout/abc_search_dropdown_item_icons_2line.xml",

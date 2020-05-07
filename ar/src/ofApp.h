@@ -14,7 +14,6 @@ class ofApp : public ofxAndroidApp{
 		ofxARCore arcore;
 		bool initialized;
 		bool augImgMode;
-        vector<ofAugmentedImage*> augmented_images;
 
 		ofMatrix4x4 projectionMatrix;
 

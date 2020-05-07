@@ -3,21 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/ofAndroidLib/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="00aad8c966b6a632f76f28e1492bb782e81fa35f">
-        <dex dex="/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/pre-dexed/arm64/debug/classes_86a80a913218b514fcc038ee44daa58954917732.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxARCore2/ofxARCoreLib/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.0"
-        sha1="1c404ec1c8d61996fd425c8f1dfd0f0c7ee0198f">
+        revision="25.0.0"
+        sha1="cd78a23a466310bd5cb6e70304dba254d98f8d62">
         <dex dex="/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/pre-dexed/arm64/debug/classes_1485fd39fda3c6098d0405cca0a0b2a4c0f485f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mr_z_ro/Documents/openFrameworks_Android/addons/ofxAndroid/ofAndroidLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00aad8c966b6a632f76f28e1492bb782e81fa35f">
+        <dex dex="/Users/mr_z_ro/Documents/openFrameworks_Android/apps/myApps/ar/build/intermediates/pre-dexed/arm64/debug/classes_86a80a913218b514fcc038ee44daa58954917732.jar" />
     </item>
 
 </items>
